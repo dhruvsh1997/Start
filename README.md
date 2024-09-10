@@ -1,2 +1,2 @@
 # Dhruv-Sharma
-I am a Java Developer
+I am a Python Developer
